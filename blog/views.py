@@ -11,7 +11,7 @@ posts = [
     },
     {
         'author': 'Enyaw Rettah',
-        'title': 'Blog Post21',
+        'title': 'Blog Post2',
         'content': 'Second post content',
         'date_posted': 'February 20, 2025'
     }
